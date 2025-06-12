@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Muyeed</h1>
 <h3 align="center">I am a Programmer and Web Developer (MERN Stack)</h3>
-<p align="center"> <img src="https://raw.githubusercontent.com/abdul-muyeed/cf-stats/main/output/max_rating.svg" /> <img src="https://komarev.com/ghpvc/?username=abdul-muyeed" alt="visitors" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/abdul-muyeed?color=green&logo=github">  </div>
+<p align="center"> <img src="https://raw.githubusercontent.com/abdul-muyeed/cf-stats/main/output/max_rating.svg" /> <img src="https://komarev.com/ghpvc/?username=abdul-muyeed" alt="visitors" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/abdul-muyeed47?color=green&logo=github">  </div>
 <p>
 
 # About Me :
@@ -57,23 +57,16 @@
 ![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <p align="center">
-  <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-muyeed&" alt="abdul-muyeed"/>
+  <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-muyeed47&" alt="abdul-muyeed"/>
 </p> 
-<p align="center">
-    <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-muyeed&show_icons=true&locale=en&layout=compact" alt="abdul-muyeed" />
-</p>
+
 <p align="center">
   <img align="center" width="500px" src="https://raw.githubusercontent.com/abdul-muyeed/cf-stats/main/output/light_card.svg" />
 </p>
-<p align="center">
-  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=abdul-muyeed&show_icons=true&locale=en" alt="abdul-muyeed" />
-</p>
-<p align="center" color="white">
-  <img src="https://metrics.lecoq.io/abdul-muyeed"> 
-</p>
+
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abdul-muyeed&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=abdul-muyeed47&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
  ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abdulmuyeed) 
